@@ -1,5 +1,5 @@
-name: Manage GitHub labels
-description: "Manage the labels for a given repository"
+name: Issue Labels Manage
+description: "Issue Labels Manage"
 author: "julbme"
 branding:
   icon: edit-2
