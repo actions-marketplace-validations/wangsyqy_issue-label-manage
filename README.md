@@ -5,6 +5,8 @@
 
 # GitHub Action to manage labels
 
+https://github.com/julbme/gh-action-manage-label
+
 The GitHub Action for managing labels of the GitHub repository from a provided file.
 It is particularly helpful when you want to setup the same labels for all your repositories.
 
